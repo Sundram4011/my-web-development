@@ -1,0 +1,16 @@
+h3
+{
+  color:#2fd2af;
+}
+h2{
+  color:#2fd2af;
+}
+hr{
+  border:#2fd2af;
+  border-style: dotted none none none;
+  width:10%;
+  border-width:2px;
+}
+img{
+  border-radius: 50%;
+}
